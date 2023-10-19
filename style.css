@@ -1,0 +1,13 @@
+label{
+    display:block; 
+    font-family:sans-serif;
+    border-style:solid;
+    border-color:orangered;
+    border-width:20px;
+}
+body{
+    text-align:center;
+    
+    background-color:orange;
+    color:rgb(255, 251, 0);
+}
